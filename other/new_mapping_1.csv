@@ -1,0 +1,430 @@
+object,group,mapping
+Billy,group1,boy
+her kiddos,group1,girl
+her lips,group1,girl
+her nose,group1,girl
+her son,group1,boy
+hers,group1,girl
+him,group1,boy
+himself,group1,boy
+her hand,group1,girl
+his,group1,boy
+his legs,group1,boy
+his little sister,group1,girl
+his other foot,group1,boy
+his sister,group1,girl
+his socks,group1,boy
+his younger sister,group1,girl
+jar,group1,jar
+his hand,group1,boy
+her finger,group1,girl
+her brother,group1,boy
+her,group1,girl
+door,group1,cabinet
+doors,group1,cabinet
+drawer,group1,cabinet
+dress,group1,girl
+female youngster,group1,girl
+floor,group1,floor
+floors,group1,floor
+food,group1,cookie
+footstool,group1,stool
+girl,group1,girl
+girlfriend,group1,girl
+girls,group1,girl
+ground,group1,floor
+guy,group1,boy
+handle,group1,handle
+handles,group1,handle
+he,group1,boy
+kids,group1,kids
+kitchen stool,group1,stool
+lad,group1,boy
+ladder,group1,stool
+the cupboard doors,group1,cabinet
+the door,group1,cabinet
+the door of the cabinet,group1,cabinet
+the door to the cabinet,group1,cabinet
+the jar,group1,jar
+the kitchen cupboard,group1,cabinet
+the kitchen stool,group1,stool
+the little girl,group1,girl
+the three legged stool,group1,stool
+the tippy stool,group1,stool
+the top cabinets,group1,cabinet
+the young lady,group1,girl
+they,group1,kids
+three legged stool,group1,stool
+tripod stool,group1,stool
+wall,group1,wall
+woman,group1,girl
+the cupboard door,group1,cabinet
+dishes,group1,dish
+the cookie lids,group1,lid
+the cookie,group1,cookie
+lady,group1,girl
+legs,group1,boy
+lid,group1,lid
+lip,group1,girl
+man,group1,boy
+seat,group1,stool
+sh,group1,girl
+she,group1,girl
+shelf,group1,cabinet
+sister,group1,girl
+son,group1,boy
+stepstool,group1,stool
+stool,group1,stool
+stools,group1,stool
+table,group1,table
+table leg,group1,table
+the cabinet door,group1,cabinet
+the cookie jar,group1,jar
+daughter,group1,girl
+jars,group1,jar
+cover,group1,lid
+another one,group1,cookie
+countertop,group1,cabinet
+counter,group1,cabinet
+cupboard door,group1,cabinet
+boys,group1,boy
+apples,group1,cookie
+chair,group1,stool
+cupboard,group1,cabinet
+cabinet,group1,cabinet
+boy,group1,boy
+cabinet door,group1,cabinet
+bench,group1,stool
+cake,group1,cookie
+cup,group1,cup
+cabinet doors,group1,cabinet
+cabinet drawers,group1,cabinet
+ball,group1,cookie
+children,group1,kids
+closet,group1,cabinet
+cabinets,group1,cabinet
+cookies,group1,cookie
+cookie,group1,cookie
+cookies jar,group1,jar
+cupboard doors,group1,cabinet
+Johnny,group1,boy
+cupboards,group1,cabinet
+cookie jar,group1,jar
+cups,group1,cup
+closet doors,group1,cabinet
+Junior,group1,boy
+brother,group1,boy
+Sissy,group1,girl
+cookie jars,group1,jar
+button,group1,button
+kid's hand,group1-boy-hand,boy
+socks,group1-boy-hand,boy
+hand,group1-boy-hand,boy
+knee,group1-boy-hand,boy
+hair,group1-boy-hand,boy
+sleeves,group1-boy-hand,boy
+hands,group1-boy-hand,boy
+head,group1-boy-hand,boy
+tennis shoes,group1-boy-hand,boy
+his hand,group1-boy-hand,boy
+brother's hand,group1-boy-hand,boy
+boy's shoes,group1-boy-hand,boy
+sneakers,group1-boy-hand,boy
+his head,group1-boy-hand,boy
+his left hand,group1-boy-hand,boy
+his right hand,group1-boy-hand,boy
+his left toe,group1-boy-hand,boy
+sweater,group1-boy-hand,boy
+his one hand,group1-boy-hand,boy
+his neck,group1-boy-hand,boy
+kid,group1-boy-hand,boy
+his right heel,group1-boy-hand,boy
+rear,group1-boy-hand,boy
+short pants,group1-boy-hand,boy
+neck,group1-boy-hand,boy
+each hand,group1-boy-hand,boy
+one hand,group1-boy-hand,boy
+left hand,group1-boy-hand,boy
+feet,group1-boy-hand,boy
+trousers,group1-boy-hand,boy
+short sleeve shirt,group1-boy-hand,boy
+short sleeved shirt,group1-boy-hand,boy
+shoes,group1-boy-hand,boy
+shorts,group1-boy-hand,boy
+toes,group1-boy-hand,boy
+pants,group1-boy-hand,boy
+shirt,group1-boy-hand,boy
+foot,group1-boy-hand,boy
+arm,group1-boy-hand,boy
+the left hand,group1-boy-hand,boy
+running shoes,group1-boy-hand,boy
+leg,group1-boy-hand,boy
+back,group1-boy-hand,boy
+pompadour,group1-boy-hand,boy
+the right hand,group1-boy-hand,boy
+socks,group1-girl-hand,girl
+she,group1-girl-hand,girl
+her wrist,group1-girl-hand,girl
+sandals,group1-girl-hand,girl
+shoes,group1-girl-hand,girl
+one hand,group1-girl-hand,girl
+sister's hand,group1-girl-hand,girl
+nose,group1-girl-hand,girl
+neck,group1-girl-hand,girl
+mouth,group1-girl-hand,girl
+short skirt,group1-girl-hand,girl
+shorts,group1-girl-hand,girl
+miniskirt,group1-girl-hand,girl
+mini dress mini skirt,group1-girl-hand,girl
+long hair,group1-girl-hand,girl
+lips,group1-girl-hand,girl
+lip,group1-girl-hand,girl
+lid,group1-girl-hand,lid
+skirt,group1-girl-hand,girl
+one arm,group1-girl-hand,girl
+her right hand,group1-girl-hand,girl
+her nose,group1-girl-hand,girl
+her right finger,group1-girl-hand,girl
+her feet,group1-girl-hand,mother
+ankle socks,group1-girl-hand,girl
+her face,group1-girl-hand,girl
+girl,group1-girl-hand,girl
+her arm,group1-girl-hand,girl
+face,group1-girl-hand,girl
+blouse,group1-girl-hand,girl
+feet,group1-girl-hand,girl
+finger,group1-girl-hand,girl
+fingers,group1-girl-hand,girl
+hand,group1-girl-hand,girl
+the hand,group1-girl-hand,girl
+the other one,group1-girl-hand,girl
+hair,group1-girl-hand,girl
+the mouth,group1-girl-hand,girl
+her finger,group1-girl-hand,girl
+summer short sleeve dress,group1-girl-hand,girl
+dress,group1-girl-hand,girl
+her hand,group1-girl-hand,girl
+her mouth,group1-girl-hand,girl
+two slippers,group1-girl-hand,girl
+her lips,group1-girl-hand,girl
+stool,group1-girl-hand,stool
+her left hand,group1-girl-hand,girl
+her lip,group1-girl-hand,girl
+arm,group1-girl-hand,girl
+strapped shoes,group1-girl-hand,girl
+strap slippers,group1-girl-hand,girl
+her hands,group1-girl-hand,girl
+her inner index finger,group1-girl-hand,girl
+someone,group1-kid-boy,boy
+somebody,group1-kid-boy,boy
+fellow,group1-kid-boy,boy
+child,group1-kid-boy,boy
+children,group1-kid-boy,kids
+one of the youngsters,group1-kid-boy,boy
+kid,group1-kid-boy,boy
+another,group1-kid-boy,boy
+youngster,group1-kid-boy,boy
+kid,group1-kid-girl,girl
+sister,group1-kid-girl,girl
+two,group1-they,kids
+shoes,group1-they,kids
+they,group1-they,kids
+sandals,group1-they,kids
+them,group1-they,kids
+short sleeve,group1-they,kids
+youngsters,group1-they,kids
+kids,group1-they,kids
+children,group1-they,kids
+the kitchen cupboard doors,group2,cabinet
+table,group2,table
+short hair,group2,mother
+toe,group2,mother
+towel,group2,towel
+towels,group2,towel
+suds,group2,water
+stool,group2,stool
+shoes,group2,mother
+spout,group2,faucet
+somebody,group2,mother
+water,group2,water
+water pipe,group2,faucet
+wet shoes,group2,mother
+she,group2,mother
+cabinet,group2,cabinet
+saucer,group2,dish
+wife,group2,mother
+spigot,group2,faucet
+woman,group2,mother
+shoe,group2,mother
+slippers,group2,mother
+tea towel,group2,towel
+board,group2,board
+the kitchen sink,group2,sink
+sink counter,group2,sink
+sink top,group2,sink
+sink bowl,group2,sink
+the mother,group2,mother
+the mother's mouth,group2,mother
+sinks,group2,sink
+back,group2,mother
+sink board,group2,sink
+spigots,group2,faucet
+sink,group2,sink
+the sink faucet,group2,sink
+aprons,group2,mother
+apron,group2,mother
+sleeveless dress,group2,mother
+basin,group2,dish
+sleeves,group2,mother
+short sleeve dress,group2,mother
+slipon shoes,group2,mother
+the dish water,group2,water
+the other woman,group2,mother
+the kitchen counter,group2,cabinet
+mother's,group2,mother
+her feet,group2,mother
+dishwasher,group2,sink
+her hand,group2,girl
+her knees,group2,mother
+her left hand,group2,mother
+her mouth,group2,mother
+her right foot,group2,mother
+her right hand,group2,mother
+her foot,group2,mother
+flood,group2,water
+hers,group2,mother
+cloth,group2,towel
+dishes,group2,dish
+housewife,group2,mother
+kitchen,group2,house
+kitchen cabinets,group2,cabinet
+cabinets,group2,cabinet
+her shoes,group2,mother
+counter,group2,cabinet
+her,group2,mother
+dishwater,group2,water
+floor,group2,floor
+cupboard,group2,cabinet
+faucets,group2,faucet
+faucet,group2,faucet
+foot,group2,mother
+cup,group2,cup
+fountain,group2,water
+dress,group2,mother
+girl,group2,mother
+doors,group2,cabinet
+grandmother,group2,mother
+cupboards,group2,cabinet
+hair,group2,mother
+hand,group2,mother
+handles,group2,handle
+countertop,group2,cabinet
+hands,group2,mother
+cups,group2,cup
+lady,group2,mother
+her right shoe,group2,mother
+feet,group2,mother
+path,group2,path
+one hand,group2,mother
+one foot,group2,mother
+pipe,group2,faucet
+mother,group2,mother
+mop,group2,mop
+mommy,group2,mother
+plate,group2,dish
+mom's feet,group2,mother
+mom,group2,mother
+moisture,group2,water
+dish,group2,dish
+momma,group2,mother
+platter,group2,dish
+dish towel,group2,towel
+plates,group2,dish
+mamas,group2,mother
+mama,group2,mother
+lid,group2,lid
+puddle,group2,water
+shoes,group2-mother-hand,mother
+sleeveless dress,group2-mother-hand,mother
+hairdo,group2-mother-hand,mother
+her hand,group2-mother-hand,mother
+short sleeve dress,group2-mother-hand,mother
+sleeveless,group2-mother-hand,mother
+countertop,group3,cabinet
+handles,group3,handle
+the countertop,group3,cabinet
+the kitchen counter,group3,cabinet
+saucers,group3,dish
+saucer,group3,dish
+cabinet,group3,cabinet
+cover,group3,lid
+pantry,group3,cabinet
+plate,group3,dish
+cup,group3,cup
+countertops,group3,cabinet
+plates,group3,dish
+dishes,group3,dish
+counter,group3,cabinet
+cabinets,group3,cabinet
+kitchen counter,group3,cabinet
+sink,group3,sink
+dish,group3,dish
+two cups.,group3,cup
+two cups,group3,cup
+corner,group3,corner
+bowls,group3,bowl
+sugar bowl set,group3,bowl
+cups,group3,cup
+tabletop,group3,table
+table,group3,table
+counter.,group3,cabinet
+cupboards,group3,cabinet
+counter top,group3,cabinet
+curved walk,group4,path
+walkway,group4,path
+walk,group4,path
+tree,group4,plant
+weeds,group4,plant
+window,group4,window
+yard,group4,yard
+driveway,group4,path
+wall,group4,wall
+drapes,group4,curtain
+windows,group4,window
+door,group4,cabinet
+curtains,group4,curtain
+trunk,group4,plant
+trees,group4,plant
+room,group4,house
+flowers,group4,plant
+cabinet,group4,cabinet
+plants,group4,plant
+pathway,group4,path
+path,group4,path
+panes,group4,window
+shrubbery,group4,plant
+shrubs,group4,plant
+sidewalk,group4,path
+leaves,group4,plant
+lawn,group4,plant
+lane,group4,path
+bushes,group4,plant
+cabinets,group4,cabinet
+house,group4,house
+curtain,group4,curtain
+bush,group4,plant
+building,group4,house
+counter,group4,cabinet
+roof,group4,house
+hedges,group4,plant
+hedge,group4,plant
+the cabinet door,group4,cabinet
+birds,group4,bird
+backyard,group4,yard
+grass,group4,plant
+glass,group4,window
+garden,group4,yard
+the living room,group4,house
+garage,group4,garage
+flower,group4,plant
+children,they,kids
